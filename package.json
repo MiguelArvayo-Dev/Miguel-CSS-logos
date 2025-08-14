@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MiguelArvayo-Dev.github.io/React-Excercises/CSS-Logos/",
+  "homepage": "https://MiguelArvayo-Dev.github.io/Miguel-CSS-logos/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
